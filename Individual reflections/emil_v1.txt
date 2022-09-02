@@ -1,0 +1,9 @@
+This week we played around with lego and faced the challenges of planning our work together as well as estimating
+the required time to complete different tasks.
+
+What we should focus on learning as a team is finding a common understanding of the poker cards, for example 100
+could mean 100% of the project, or 100 hours or some other arbitrary metric which all the team members understand
+and agrees on.
+
+In the current state of the project, it is hard to say what I will be able to learn other team members or answer
+in detail what I will contribute.
