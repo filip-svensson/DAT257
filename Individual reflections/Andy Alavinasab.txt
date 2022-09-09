@@ -1,3 +1,5 @@
+First Week
+
 * what do I want to learn or understand better?
 - In order to learn or understand better I need to listen to constructive critisism from groupmembers and also
 actively engage myself in others code to get an understanding of the project as a whole.
@@ -10,3 +12,8 @@ actively engage myself in others code to get an understanding of the project as 
 
 * what is my contribution towards the team’s deliveries?
 - Same as above.
+
+Second week
+
+This week, nothing has happened in terms of coding. Mostly we have had a few meetings about our goals in this
+project as well as how to accomplish them, what APIs to use and so on.
