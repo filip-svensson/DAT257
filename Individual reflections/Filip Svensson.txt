@@ -1,0 +1,31 @@
+=====Individual reflection week 1, Filip=====
+*What do I want to learn or understand better?
+-Since it is the first week I want to learn the Scrum method properly. Hopefully it will quick to adapt starting next week
+when we get to start working on a project. Also, learning the A, B, A -> B reflective loop style.
+
+*How can I help someone else, or the entire team, to learn something new?
+-Everyone should contribute with the knowledge they have, so we can learn from each other. An encouraging attitude
+towards the group project is always good.
+
+*What is my contribution towards the team’s use of Scrum?
+-Again, since it's the first week we have not started working yet. Thereby no contributions done related to the use of Scrum.
+
+*What is my contribution towards the team’s deliveries?
+-Other than helping with the social contract and repo setup. Project will begin next week.
+
+=====Individual reflection week 2, Filip=====
+*What do I want to learn or understand better?
+-Got some better understanding over the method. We decided on our project idea and I will have the ambition to understand
+all parts involved, however I will focus on my part and learn the rest if there is time.
+
+*How can I help someone else, or the entire team, to learn something new?
+-We can all try to really practice the Scrum method during this project development, I can help by making sure
+I also do my best of following it.
+
+*What is my contribution towards the team’s use of Scrum?
+-We've had a slow start. So we only really had meetings so far to discuss the project idea and pitch it. Hopefully we start the coding
+process next week. That might help to fully utilize Scrum.
+
+*What is my contribution towards the team’s deliveries?
+Helped come up with the idea for the project. I was feeling ill this week and stayed home when the group did
+the project pitch, props to them!
