@@ -8,21 +8,19 @@
   </head>
   <body>
     <p id = "myh1"></p>
-    <button>Fetch data</button>
+    <!-- Sätt texten i en paragraf till en stations värden med
+         setParaText('paragrafID', 'Station')
+         Stationer som finns tillgängliga: Femman, Haga_Norra, Mobil_1, Mobil_2, Mobil_3
+          (Piece of shit val vi gjort av API, heja gbg kommun)
+         -->
+    <button onclick="setParaText('myh1', 'Haga_Norra')">Fetch data</button>
     <div id="map"></div>
     <script type="module" src="./main.js"></script>
-    <script type="text/javascript" src="./airApi.js"></script>
+    <script type="text/javascript" src="./airApi/airApi.js"></script>
     <script>
-      const data = getData()
-      data.then(actualdata => {
-        console.log(actualdata)
-        let apitext = "";
-        for (const property in actualdata.results[0]) {
-          apitext += property + " " + actualdata.results[0][property] + "\n";
-        }
-        document.getElementById('myh1').innerText = apitext
-      })
+
     </script>
+
 
   </body>
 
