@@ -7,7 +7,23 @@
     <title>Using OpenLayers with Vite</title>
   </head>
   <body>
+    <p id = "myh1"></p>
+    <button>Fetch data</button>
     <div id="map"></div>
     <script type="module" src="./main.js"></script>
+    <script type="text/javascript" src="./airApi.js"></script>
+    <script>
+      const data = getData()
+      data.then(actualdata => {
+        console.log(actualdata)
+        let apitext = "";
+        for (const property in actualdata.results[0]) {
+          apitext += property + " " + actualdata.results[0][property] + "\n";
+        }
+        document.getElementById('myh1').innerText = apitext
+      })
+    </script>
+
   </body>
+
 </html>
