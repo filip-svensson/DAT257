@@ -1,3 +1,4 @@
+Week 1
 This week we played around with lego and faced the challenges of planning our work together as well as estimating
 the required time to complete different tasks.
 
@@ -7,3 +8,19 @@ and agrees on.
 
 In the current state of the project, it is hard to say what I will be able to learn other team members or answer
 in detail what I will contribute.
+
+Week 3
+what do I want to learn or understand better?
+    I'd like to understand the APIs of this project better and its proper usages.
+how can I help someone else, or the entire team, to learn something new?
+    Since I've done a bit of javascript and built my own API integrated with a javascript web page
+    I have some background information that's valuable for most aspects of this project. To share this information
+    I think it's good to do all the work in small teams and never completely individually if it's not absolutely
+    necessary.
+what is my contribution towards the team’s use of Scrum?
+    So far the biggest contribution I've made to scrum is showing up at meetings and trying to respect
+    the process and be helpful in discussions about how to split up the work.
+what is my contribution towards the team’s deliveries?
+    Both writing code and helping other write code.
+
+
