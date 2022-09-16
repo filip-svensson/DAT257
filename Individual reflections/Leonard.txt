@@ -9,5 +9,28 @@ By attending the workshop where four groups worked together during sprints to co
 
 Week two:
 
+We decided that the project would be easiest to work with in Javascript, Node more specifically.
+One of our team members, Emil, has some experience working with Node in the past and is able to teach the rest of the team
+how to work with it in a good way. I took initiative for the team to use Trello to be able to track other team members' progress.
+
+Furthermore, we designed the first sprint, and where we would like to be after this sprint.
+
+Learning goals:
+
+I would like to learn how to work in Node.
+I would like a good team structure, using frameworks such as Trello to achieve this.
 
 Week three:
+
+This week we had a meeting evaluating the strengths of every team member, also splitting into smaller teams for working more efficiently in sprints.
+We also realized that none of us had experience with working with branching in git, which was delegated to me for structuring the project.
+We split the project into a frontend part, a part for understanding the the air-quality API and the third for understanding the map-API.
+I was placed in the frontend part, which I have some experience working with.
+Furthermore, I took personal responsibility for teaching merging throughout the project.
+
+Thus:
+I want to improve my skills in git, project management and branching specifically.
+I want to teach my team members how to work efficiently in HTML/CSS.
+I want my team members to follow along with my personal improvements in Git, being able to track branches
+and create their own working directories efficiently.
+

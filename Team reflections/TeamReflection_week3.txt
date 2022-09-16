@@ -1,0 +1,27 @@
+Team reflection week 3: Group Tatooine
+Customer Value and Scope
+The goal of the project is to create a map which has multiple points where air quality is shown.
+In order to achieve this the group has to become better at creating a webpage as well as become better at working together as a team using scrum.
+We believe these two to also be goals of the project and will be the things that are most important moving forward in our careers.
+
+Application of Scrum
+This week we put a lot of effort into applying scrum to our project by holding an extra meeting and dividing the project into larger aspects and from that dividing the team into smaller groups.
+Leonard is designated scrum master. We then defined sprints for each larger task according to the INVEST criteria.
+To organize this we chose to use Trello to get a better overview of sprints and progress.
+Trello is new for us, so everyone sat with it and worked out the basics together.
+
+We have also started to structure the project to make it easier to work within the groups by creating branches in the git repo.
+
+Social Contract and Effort
+Our social contract helped us get to work with a good structure, since we did start dividing into groups and getting work done.
+Everyone has come to meetings on time, only broken when some group members got sick.
+So far we feel like the social contract is relevant as it is right now and there is no need to change it.
+ In week 2 we updated it to the current version.
+
+Together we estimate that we’ve put about 50 hours together this week. Most of the time went to meetings and planning.
+Everyone has done their part. In retrospect we noticed the difficulty of estimating the time required for each story.
+Some user stories went a lot faster than expected and others took more time, so that’s an area we could improve in.
+
+Design decisions and product structure
+We decided to use OpenLayer as the API for the map-part of the project because it has the function of adding markers with information to the map.
+Since we want to add the air quality to these markers, it seemed to be a good choice when choosing the API for the map.
