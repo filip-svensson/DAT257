@@ -3,6 +3,12 @@ import {Map, View} from 'ol';
 import TileLayer from 'ol/layer/Tile';
 import OSM from 'ol/source/OSM';
 
+import 'bootstrap/dist/css/bootstrap.min.css';
+const express = require("express")
+const path = require('path')
+
+const app = express();
+
 const map = new Map({
   target: 'map',
   layers: [
@@ -15,3 +21,9 @@ const map = new Map({
     zoom: 2
   })
 });
+
+
+
+app.use('/css', express.static(path.join(_dirname, 'node_modules/bootstrap/dist/css')))
+app.use('/js', express.static(path.join(_dirname, 'node_modules/bootstrap/dist/js')))
+app.use('/js', express.static(path.join(_dirname, 'node_modules/jquery/dist')))
