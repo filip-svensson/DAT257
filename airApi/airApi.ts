@@ -33,14 +33,14 @@ function getData(station: string) {
                 }
             }
 
-        return new w_station(station, nox, no2);
-    })
+            return new w_station(station, nox, no2);
+        })
     return data;
 }
 
 function setParaText(paragraf: string, station: string) {
     let stat: any = getData(station)
         .then((stat) => {
-            document.getElementById(paragraf).innerText = stat.name+" "+stat.no2+" "+stat.nox;
+            document.getElementById(paragraf).innerText = stat.name + " " + stat.no2 + " " + stat.nox;
         })
 }
