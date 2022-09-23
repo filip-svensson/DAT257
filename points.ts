@@ -9,8 +9,3 @@ export const points = [
         name: '11an',
     },
 ];
-
-// export interface Point {
-//     coordinates: Array<number>;
-//     name: string;
-// }

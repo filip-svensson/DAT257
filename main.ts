@@ -41,8 +41,6 @@ new Map({
     target: 'map',
     layers: [osmTile, pointLayer],
     view: new View({
-        //Peon work too slow, api gang takeover
-        // Recommend: https://openlayers.org/en/latest/examples/geographic.html
         center: [11.97050571, 57.70875572],
         zoom: 12
     })
