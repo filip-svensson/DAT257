@@ -16,4 +16,24 @@ actively engage myself in others code to get an understanding of the project as 
 Second week
 
 This week, nothing has happened in terms of coding. Mostly we have had a few meetings about our goals in this
-project as well as how to accomplish them, what APIs to use and so on.
+project as well as how to accomplish them, what APIs to use and so on. As such, my answers from last week haven't
+changed much.
+
+Third week
+
+* what do I want to learn or understand better?
+- This week I would like to learn both CSS and HTML in order to start
+with the website next week. I also want to understand a bit of JavaScript to better be able to cooperate with the team.
+
+* how can I help someone else, or the entire team, to learn something new?
+- Share the things I learn and in turn they will do the same and we will all learn more.
+
+* what is my contribution towards the team’s use of Scrum?
+- My contribution is doing my sprints as well as helping the
+others in the group when and if they need it. I have a responsibility to share my visions and goals each meeting
+to further the idea as a whole.
+
+* what is my contribution towards the team’s deliveries?
+- Mostly doing my work in the epics that are related to my part of the project which is the webpage.
+
+

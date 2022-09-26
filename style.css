@@ -1,14 +1,57 @@
 @import "node_modules/ol/ol.css";
 
 html, body {
-  margin: 0;
+  margin: 0 auto;
   height: 100%;
+  box-sizing: border-box;
 }
-#map {
+
+#nav{
+  display: inline-flex;
+  justify-content: flex-start;
+  background-color: rebeccapurple;
+  min-height: 100px;
+}
+
+#nav .navItems{
+  margin-top: 4%;
+  margin-left: 4%;
+}
+
+#nav .navItems #title{
+  color: white;
+  text-decoration: none;
+
+}
+#nav .navItems #searchBar{
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
+
+#nav .navItems a {
+  color: white;
+  text-decoration: none;
+}
+
+#nav .navItems #title:hover {
+  color: lawngreen;
+  text-shadow: 2px 2px black;
+}
+
+
+#mapDiv {
+
+}
+
+#mapDiv #map {
   position: relative;
+  margin: 0 auto;
+  min-height: 670px;
+  background-color: orange;
   top: 0;
   bottom: 0;
-  width: 80%;
-  height: 80%;
-  margin: auto;
 }
