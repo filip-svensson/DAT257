@@ -29,3 +29,46 @@ process next week. That might help to fully utilize Scrum.
 *What is my contribution towards the team’s deliveries?
 Helped come up with the idea for the project. I was feeling ill this week and stayed home when the group did
 the project pitch, props to them!
+
+=====Individual reflection week 3, Filip=====
+*What do I want to learn or understand better?
+We got the Trello working and project is ongoing. We chose to do it in HTML,CSS,Javascript and I've never programmed in these
+languages before so the learning curve is a bit steep but manageble. I'd like to continue to learn the languages and progress.
+I feel like I need to understand the diffrent stories in sprints better. This week me and Emil was responsible for
+getting the air quality api to work, which we completed. However, I think it's more of a "developer story" rather than a user story.
+Since we wrote the code that enables the people doing the display, they can use a function to get the measurements for a specific
+station. Thus it feels like a developer feature.
+
+*How can I help someone else, or the entire team, to learn something new?
+I can help the rest of the team members to learn how to use our chosen API now that I got the knowledge on how to do it.
+So we all can get a better understanding of all parts of the project and not just the one we're assigned.
+
+*What is my contribution towards the team’s use of Scrum?
+Me and Emil took the story of implementing the API. Our contribution this week was to deliver the promise made in the
+first sprint, ahead of deadline.
+
+*What is my contribution towards the team’s deliveries?
+Same as the question above. I did my part of the sprint in due time, and contributed in the way that we delivered what
+was expected of us and before the deadline.
+
+=====Individual reflection week 4, Filip=====
+*What do I want to learn or understand better?
+I feel that I got a good grip around the basics of sprints now. Atleast regarding sprints and user stories. I now know
+how to utilize the INVEST and got better at formulating the stories according to "As X I want Y since Z".
+I noticed that I don't really have proper knowledge of KPIs and the different charts. Since our project group hasn't decided
+on a PO yet we haven't really started discussing those topics.
+
+*How can I help someone else, or the entire team, to learn something new?
+We took the advice to change the pairs working on the user stories for each sprint, with one of the persons working on a story
+the previous sprint, stay in the same area so we can explain it to the one thats going to work on it this sprint.
+I stayed in the airquality branch this week and Andy replaced Emil, so I helped Andy understand the coding we did and how it works.
+This turned out to be a pretty effective way to spread the project knowledge between all team members.
+
+*What is my contribution towards the team’s use of Scrum?
+We all created this sprints user stories together, and focused on the criteria. I helped check all the stories for the
+INVEST criteria to see that they hold.
+
+*What is my contribution towards the team’s deliveries?
+As mention above, me and Andy had the developer story to convert the JavaScript to TypeScript. We delivered the story
+today and fulfilled the checklist. I help Andy understand how the API implementation work so he get some understanding of that
+part of the project.

@@ -7,28 +7,21 @@
     <title>Using OpenLayers with Vite</title>
   </head>
   <body>
-  <nav>
+    <p id = "myh1"></p>
+    <!-- Sätt texten i en paragraf till en stations värden med
+         setParaText('paragrafID', 'Station')
+         Stationer som finns tillgängliga: Femman, Haga_Norra, Mobil_1, Mobil_2, Mobil_3
+          (Piece of shit val vi gjort av API, heja gbg kommun)
+         -->
+    <button onclick="setParaText('myh1', 'Haga_Norra')">Fetch data</button>
+    <div id="map"></div>
+    <script type="module" src="main.ts"></script>
+    <script type="text/javascript" src="./airApi/airApi.ts"></script>
+    <script>
 
-  </nav>
-
-
-    <div  class="col-8">
-
-      <div id="map"></div>
-
-    </div>
-
-
-
-
-  <footer>
+    </script>
 
 
-  </footer>
-
-
-  <script type="module" src="./main.js"></script>
   </body>
-
 
 </html>
