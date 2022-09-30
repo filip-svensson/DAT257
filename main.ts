@@ -7,8 +7,10 @@ import VectorLayer from "ol/layer/Vector";
 import VectorSource from "ol/source/Vector";
 import {Icon, Style} from 'ol/style';
 import {points} from "./points";
+import {getCountryData} from "./airApi/openaq";
 import {Point} from "ol/geom";
 import Overlay from 'ol/Overlay';
+import {weatherStation} from "./airApi/weatherStation";
 
 
 useGeographic();
@@ -34,6 +36,25 @@ const iconStyle = new Style({
 const pointsById = {}
 const features = []
 
+// @ts-ignore
+let allstations:weatherStation[] = await getCountryData('SE');
+let i = 0;
+while(allstations[i] != undefined){
+    i++
+}
+
+for(let j = 0; j < i; j++){
+    const feature = new Feature({
+        geometry: new Point([allstations[j].lon, allstations[j].lat]),
+        name: allstations[j].location,
+    })
+
+    feature.setId(allstations[j].location);
+    pointsById[feature.getId()] = allstations[j];
+    features.push(feature);
+}
+
+/*
 points.forEach((point) => {
     const feature = new Feature({
         geometry: new Point([point.coordinates[1], point.coordinates[0]]),
@@ -43,6 +64,8 @@ points.forEach((point) => {
     pointsById[feature.getId()] = point;
     features.push(feature);
 });
+*/
+
 
 //adds our points to the point layer
 const pointLayer = new VectorLayer({
@@ -88,9 +111,9 @@ map.on('click', function (evt) {
         closePopup();
         return;
     }
-    const point = pointsById[feature.getId()]
+    const station:weatherStation = pointsById[feature.getId()]
 
-    content.innerHTML = 'Name:' + point.name;
+    content.innerHTML = 'Station ID: ' + station.location + "<br />" + 'PM10: ' + station.pm10 + "<br />" + 'PM2.5: ' + station.pm25;
     const coordinates: Array<number> = feature.getGeometry().getCoordinates();
     overlay.setPosition([coordinates[0], coordinates[1]]);
 });
