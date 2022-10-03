@@ -1,9 +1,27 @@
 @import "node_modules/ol/ol.css";
 
 html, body {
-  margin: 0;
+  margin: 0 auto;
   height: 100%;
+  box-sizing: border-box;
+  background-image: url("gbgstad.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  animation: fadeInAnimation ease 2s;
+  animation-fill-mode:forwards;
 }
+
+@keyframes fadeInAnimation {
+0%{
+  opacity: 0.3;
+}
+  100%{
+    opacity: 1;
+  }
+
+}
+
 #map {
   position: relative;
   top: 10px;
