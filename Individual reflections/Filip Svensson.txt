@@ -61,7 +61,7 @@ on a PO yet we haven't really started discussing those topics.
 *How can I help someone else, or the entire team, to learn something new?
 We took the advice to change the pairs working on the user stories for each sprint, with one of the persons working on a story
 the previous sprint, stay in the same area so we can explain it to the one thats going to work on it this sprint.
-I stayed in the airquality branch this week and Andy replaced Emil, so I helped Andy understand the coding we did and how it works.
+I stayed in the air quality branch this week and Andy replaced Emil, so I helped Andy understand the coding we did and how it works.
 This turned out to be a pretty effective way to spread the project knowledge between all team members.
 
 *What is my contribution towards the team’s use of Scrum?
@@ -72,3 +72,29 @@ INVEST criteria to see that they hold.
 As mention above, me and Andy had the developer story to convert the JavaScript to TypeScript. We delivered the story
 today and fulfilled the checklist. I help Andy understand how the API implementation work so he get some understanding of that
 part of the project.
+
+=====Individual reflection week 5, Filip=====
+*What do I want to learn or understand better?
+We have a PO, and need to start working on the KPIs since we're approaching the end of this course. I have yet to
+learn how to practice the different aspects of that part of Scrum. So for week six I hope we get a lot done in that area.
+When it comes to learning related to the project I'm starting to get satisfied. I can't expect to master html, css and
+typescript in a course like this. But I'm getting around the basics and got a general understanding on how they work. I'd
+like to put the focus on Scrum the following two weeks that are left.
+
+*How can I help someone else, or the entire team, to learn something new?
+As previous weeks continue to share the knowledge gained from different stories made during the sprints. And also
+encourage to fully practice Scrum 'by the book', even if this course maybe is more of a preview. It feels hard to
+apply it correctly in a university course during eight weeks, but make the most out of it.
+
+*What is my contribution towards the team’s use of Scrum?
+Doing stories, helping with the MVP and also help to separate the sprint reviews from the sprint retrospective. Up until now
+we've had a bit of a misconception and thought they were basically the same thing. During the previous weeks we kind of
+did a merging of those two and the team reflection, unaware that they are separate things.
+
+*What is my contribution towards the team’s deliveries?
+Me and Ernst had the user story to expand the measurement points provided on the map. To do this we needed another API to be
+integrated. We found that 'OpenAQ' actually combined a lot of public air quality APIs around the world into one, including
+the one we first had from Gothenburg City. We low balled the story to try to just understand the API and possibly integrate it.
+However, we managed to fully integrate it. This will probably set a new direction during the next sprint planning on Tuesday, since
+we now have the opportunity to expand our product to include all of Sweden, even the whole world if deemed suiting. So the agile part
+of agile software development really expressed itself during this sprint for me.
