@@ -6,25 +6,28 @@
           integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
     <link rel="icon" type="image/x-icon" href="https://openlayers.org/favicon.ico"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Using OpenLayers with Vite</title>
+    <title>Amazing map</title>
+    <link rel="icon" type="image/x-icon" href="favicon_io_1/favicon.ico">
 
 </head>
 
 <nav id="nav" class="container-fluid">
     <div class="navItems col-4">
-        <a href="#">
-            <h1 id="title" class="w-100">Map</h1>
+        <a id="titleLink" href="#">
+            <h1 id="title" class="w-100">Air quality map</h1>
         </a>
-
-
     </div>
-
-    <div class="navItems col-6">
-        <input id="searchBar" class="w-100" type="text" placeholder="Search..">
-    </div>
-
 </nav>
-<body>
+
+<body class="container-fluid p-0">
+<form id="searchForm" action="index.html" method="POST">
+<div id="searchBarId">
+    <label id="searchValueLabel" for="searchValue">Leta efter Glenn</label>
+    <input id="searchValue" class="col-8" type="text"  placeholder="Sök station">
+   <!-- <button type="submit" id="searchBarA">StepFormButton</button> -->
+    <input type="submit" value="SEND ME HOME">
+</div>
+</form>
 
 
   <div id="map"></div>

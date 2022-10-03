@@ -6,10 +6,10 @@ html, body {
 }
 #map {
   position: relative;
-  top: 0;
+  top: 10px;
   bottom: 0;
-  width: 80%;
-  height: 80%;
+  width: 70%;
+  height:70%;
   margin: auto;
 }
 .ol-popup {
@@ -53,3 +53,60 @@ html, body {
 .ol-popup-closer:after {
   content: "✖";
 }
+
+#nav {
+  background-image: linear-gradient(to bottom right, #000066, #9999ff);
+  float: left;
+  flex-direction: row;
+  opacity: 80%;
+  padding: 0;
+}
+
+#nav #title{
+  padding-left: 10px;
+  color: greenyellow;
+  text-decoration: none !important;
+}
+
+#nav #titleLink #title:hover{
+  color: #ffffff;
+  text-decoration: none !important;
+}
+
+#nav #titleLink{
+  text-decoration: none !important;
+}
+
+#searchBarId{
+  margin-left: 10%;
+
+}
+#searchValueLabel{
+  font-size: 22px;
+  color: white;
+  font-family: "Comic Sans MS";
+  background-color: #4A412A;
+  border-radius: 25%;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+ #searchForm{
+  align-self: center;
+   padding-top: 7%;
+   padding-bottom: 2%;
+   margin: 0 auto;
+   padding-right: 0;
+   padding-left: 0;
+
+
+}
+
+#searchForm{
+  top: 10px;
+}
+
+
+
+
