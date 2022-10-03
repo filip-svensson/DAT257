@@ -21,7 +21,8 @@ html, body {
   border: 1px solid #cccccc;
   bottom: 40px;
   left: -49px;
-  min-width: 280px;
+  min-width: 350px;
+
 }
 .ol-popup:after, .ol-popup:before {
   top: 100%;
