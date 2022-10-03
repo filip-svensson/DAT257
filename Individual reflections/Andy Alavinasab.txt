@@ -44,7 +44,8 @@ also learned more typescript from the writing of the popup.
 
 * how can I help someone else, or the entire team, to learn something new?
 As the goal of this week was for me to learn more of typescript in order to be able to teach it next week I wont really
-be able to help others this week unless absolutely necessary. Next week though I will be able to share the things I learn now.
+be able to help others this week unless absolutely necessary. Next week though I will be able to
+share the things I learn now.
 
 * what is my contribution towards the team’s use of Scrum?
 My contribution will be doing the sprints I have chosen for this week with the two teams I am in.
