@@ -34,6 +34,20 @@ others in the group when and if they need it. I have a responsibility to share m
 to further the idea as a whole.
 
 * what is my contribution towards the team’s deliveries?
-- Mostly doing my work in the epics that are related to my part of the project which is the webpage.
+- Mostly doing my work in the epics that are related to my part of the project for this week which is the webpage.
 
+Fourth week
 
+* what do I want to learn or understand better?
+This week I've learned more about typeScript while working on converting from javascript to typescript. I've
+also learned more typescript from the writing of the popup.
+
+* how can I help someone else, or the entire team, to learn something new?
+As the goal of this week was for me to learn more of typescript in order to be able to teach it next week I wont really
+be able to help others this week unless absolutely necessary. Next week though I will be able to share the things I learn now.
+
+* what is my contribution towards the team’s use of Scrum?
+My contribution will be doing the sprints I have chosen for this week with the two teams I am in.
+
+* what is my contribution towards the team’s deliveries?
+To help in the teams I am in as well as possible and also the same as above.
