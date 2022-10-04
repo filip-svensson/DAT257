@@ -1,3 +1,5 @@
+Week 1
+
 I do not have much experience in working as a team in creating a software and it is
 something I would like to learn more about and develop that skill. In order to do that I will
 work with scrum in this course to the best of my abilities together with my team.
@@ -9,6 +11,11 @@ To be active in our meetings and making sure I complete the tasks assigned to me
 
 I will make sure to keep up with our internal deadlines and ask for help if needed
 in order for everything to be according to schedule.
+___________________________________________________________________________________________
+Week 2
+
+In week two not many things changed and my scope was basically the same as what is written in
+week 1
 __________________________________________________________________________________________
 Week 3
 
@@ -25,5 +32,77 @@ and that we are not passing anything of to the stakeholder that doesn't fill the
 for definition of done.
 
 I will continue to be active, ask for help if I need it, provide help if it is required.
+_____________________________________________________________________________________________
+Week 4
 
+This week I have started becoming more comfortable in the Scrum way of doing things and
+working in the sprints. In the coming sprint I will work more on the frontend side of things
+in order to learn about that area, because I have mostly been working with the backend up until
+now
+
+Just like the previous weeks I will contribute with the knowledge I have. When it comes to frontend
+my team partner definitely has more experience than me so I will try to learn as much as possible
+this week in order to share the work with the team during our next sprint review. And if
+in order to achieve some goals within the User story we need to add something in the
+backend I will provide my knowledge.
+
+We all have an open dialog when it comes to setting up the user stories and I contribute
+with both ideas and making sure INVEST criteria are met.
+
+Me and Leo, who I am working with this week we will try to have achieved our user story on time
+with time to spare to the next team meeting. If we notice the user story is too big we may
+have to inform the rest of the team in order to set up the next weeks sprints.
+
+____________________________________________________________________________________________________
+Week 5
+
+*What do I want to learn or understand better?
+
+Since lasts week sprint didn't really go as planned (the workload would've been massive and
+would have to restart the project in another framework) and was put on hold.
+this week I will be working with implementing another API that possibly could replace the one
+we have.
+
+*How can I help someone else, or the entire team, to learn something new?
+
+I can be able to teach the rest of the team about the functionality of the new API
+once it has been implemented. The goal is to make sure that points can be added dynamically
+to the map. If this succeeds it will make coming sprints much easier because of the new API
+with more data than the last one.
+
+*What is my contribution towards the team’s use of Scrum?
+
+Set up user stories with the others in the team and making sure they are following invest criteria.
+Also setting up meeting with the stakeholder in terms of discussing the MVP and KPIs
+
+*What is my contribution towards the team’s deliveries?
+
+To make sure that we have it done in time and that it doesn't interfere with other important
+files in the code. In case of it actually interfering we will discuss with the team members
+whose file we may have altered in and making sure everyone is on the same page.
+
+____________________________________________________________________________________________
+Week 6
+
+*What do I want to learn or understand better?
+
+This week I will be going back to frontend, something I haven't been working with super
+much in this project and what I want to learn is how to put some basic information about our program
+on the frontpage of the website. It will be fun to mix things up a little since last week
+me and Filip did a lot of backend work.
+
+*How can I help someone else, or the entire team, to learn something new?
+
+Since so far I am working alone on a smaller user story I will be of as much help as I can
+in case some of my other team members need help with their user story.
+
+*What is my contribution towards the team’s use of Scrum?
+
+To attend all the sprint reviews, sprint retrospectives and team meetings where we discuss
+upcoming sprint and dividing up user stories that fits the INVEST criteria.
+
+*What is my contribution towards the team’s deliveries?
+
+To be on time with my contribution and making sure that it is not something half assed.
+Also to be of any necessary assistance if any other members of the team should require it.
 
