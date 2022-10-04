@@ -1,4 +1,4 @@
-Week 1
+-----------------------------------------------Week 1--------------------------------------------------------------
 This week we played around with lego and faced the challenges of planning our work together as well as estimating
 the required time to complete different tasks.
 
@@ -9,7 +9,7 @@ and agrees on.
 In the current state of the project, it is hard to say what I will be able to learn other team members or answer
 in detail what I will contribute.
 
-Week 3
+-----------------------------------------------Week 3--------------------------------------------------------------
 what do I want to learn or understand better?
     I'd like to understand the APIs of this project better and its proper usages.
 how can I help someone else, or the entire team, to learn something new?
@@ -23,3 +23,23 @@ what is my contribution towards the team’s use of Scrum?
 what is my contribution towards the team’s deliveries?
     Both writing code and helping other write code.
 
+------------------------------------------------Week 4--------------------------------------------------------------
+what do I want to learn or understand better?
+    This week I wanted to understand how to implement a more beautiful frontend while still maintaining the
+    functionality of the map. Also working with htlm and css more or less vanilla in comparison to other projects
+    I´ve worked on.
+how can I help someone else, or the entire team, to learn something new?
+    This week I didn´t provide much help to other team member since I was doing a task solo. We did however as a team
+    improve on the meeting structure, and I hope my input was valuable and contributed to the team effort.
+    I might on occasion have chipped in some helpful advice if happening to be in the same room while some other team
+    member was working on their part but this happens on a weekly basis and is not unique for this sprint nor an
+    explicit goal.
+what is my contribution towards the team’s use of Scrum?
+    I´ve tried to help with the meeting agendas and taking as many notes as possible in relevant situations, for example
+    sprint meetings and supervisions. The team did an effort together to merge the project and I were an active part in
+    it.
+what is my contribution towards the team’s deliveries?
+    Both writing code and helping other write code. Also having a short meeting with the stakeholder and retrieving
+    some valuable information and suggestions for improvement.
+
+------------------------------------------------Week 5--------------------------------------------------------------
