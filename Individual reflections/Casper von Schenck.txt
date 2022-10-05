@@ -28,3 +28,20 @@ Scrum this week is going to be comprised of thinking up user stories and dividin
 effective groups.
 
 My contribution on deliveries is going to be mostly design of the webpage.
+
+----------------------------------------------------------------------------------------------------
+Week 4
+I want to understand APIs better, what they are, how they work and how to use them.
+This week I sadly don't see how I can help someone else learn very much, but I'll
+try and find as much information as I can. The rest I'll learn from my scrumpartners.
+
+I feel that I can't help more to scrum than I already do, but I'll make sure to keep it up.
+
+----------------------------------------------------------------------------------------------------
+Week 5
+This week I combined my previous sprints of learning APIs with typeScript which I intend
+to understand better this week. This week I can help more in helping the team learn.
+
+Delivery of info displayed on the map, aswell as getting the correct info from the API.
+I helped scrum as usual, by contributing with input in the meeting, taking on user stories
+and helping merge.
