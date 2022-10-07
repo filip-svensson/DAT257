@@ -48,7 +48,30 @@ be able to help others this week unless absolutely necessary. Next week though I
 share the things I learn now.
 
 * what is my contribution towards the team’s use of Scrum?
-My contribution will be doing the sprints I have chosen for this week with the two teams I am in.
+My contribution will be doing the user stories I have chosen for this week with the two teams I am in.
 
 * what is my contribution towards the team’s deliveries?
 To help in the teams I am in as well as possible and also the same as above.
+
+Fifth week
+
+* what do I want to learn or understand better?
+I feel now that I understand the general structure of scrum and how to work in a team using this method. I've begun
+learning multiple new languages through the course. I would like to continue learning web development as I feel this
+is an important for a developer to know. To this end I've chosen one of the larger user stories this week which envelops
+all three languages used in our program this week.
+
+* how can I help someone else, or the entire team, to learn something new?
+Just like previous weeks I will help where I can especially if someone has any questions around the areas of the
+program I feel most confident in. I can also share little tidbits of information that I discover through coding that
+might help the others write more efficiently.
+
+* what is my contribution towards the team’s use of Scrum?
+Like before, I will complete the user stories I choose as well as contributing as much as possible during meetings
+where we decide what direction to take the project now that MVP is achieved. Completion of user stories is especially
+important this week as we have quite a lot and most only have one person assigned to them.
+
+* what is my contribution towards the team’s deliveries?
+I will, like above do the user stories I am assigned and contribute as I can during meetings but also to learn more about
+git in order to make sure that merging of the branches goes well this week especially as more branches will most likely
+be created due to the increase in user stories and the more individual work this week.
