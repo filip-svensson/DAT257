@@ -95,8 +95,8 @@ const map = new Map({
     layers: [osmTile, pointLayer],
     overlays: [overlay],
     view: new View({
-        center: [11.97050571, 57.70875572],
-        zoom: 12
+        center: [15.64638, 58.395035],
+        zoom: 5
     })
 });
 
@@ -117,6 +117,8 @@ map.on('click', function (evt) {
         closePopup();
         return;
     }
+    console.log(map.getView().getZoom());
+
     const station:weatherStation = pointsById[feature.getId()]
     let country : string = " ";
     let city : string = " ";
@@ -160,6 +162,8 @@ map.on('click', function (evt) {
         gas6 + " ppm<br />" + 'Ozon: ' + gas7 + " ppm<br />" + 'Metangas: ' + gas8 + " ppm<br />";
     const coordinates: Array<number> = feature.getGeometry().getCoordinates();
     overlay.setPosition([coordinates[0], coordinates[1]]);
+    console.log(coordinates);
+
     map.getView().setCenter(coordinates);
     map.getView().setZoom(12);
 });
