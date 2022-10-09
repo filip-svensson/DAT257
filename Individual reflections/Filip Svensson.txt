@@ -98,3 +98,23 @@ the one we first had from Gothenburg City. We low balled the story to try to jus
 However, we managed to fully integrate it. This will probably set a new direction during the next sprint planning on Tuesday, since
 we now have the opportunity to expand our product to include all of Sweden, even the whole world if deemed suiting. So the agile part
 of agile software development really expressed itself during this sprint for me.
+
+=====Individual reflection week 6, Filip=====
+*What do I want to learn or understand better?
+We had a meeting with our PO this week. We got feedback, and leveled on the MVP definition for this product. We
+also took some notes and made her grade some diffrent aspects regarding design, UX and so on in a scale 1-10. The questions
+will be asked again during next PO meeting and we can define the KPIs as the progress in changes of her gradings. However, I still feel a bit
+loose on the KPI part and would like to understand them better.
+
+*How can I help someone else, or the entire team, to learn something new?
+As stated in previous weeks, continue to share the knowledge gained from different stories made during the sprints. And keep the
+structure of Scrum until the end of the course.
+
+*What is my contribution towards the team’s use of Scrum?
+We had the PO meeting, and I helped make some point for our PO to grade which we can later use to create Kpis. Besides that
+it has been the same as the previous week.
+
+*What is my contribution towards the team’s deliveries?
+This week me and Andy tried to make a new menu, based on input from our PO. We got the major part of it done but struggle
+with the communication between our html and typescript files. So we will seek some help from the more experienced persons in
+our group and hopefully learn something new.
