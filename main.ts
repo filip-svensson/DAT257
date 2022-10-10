@@ -97,7 +97,7 @@ const map = new Map({
                 1113079.7791264898, 6329220.284081122, 1848966.9639063801,
                 12036863.986909639,
             ],
-            label: "Z"
+            label: "SE"
         }),
     ]),
     target: 'map',
@@ -127,6 +127,12 @@ map.on('click', function (evt) {
         return;
     }
     console.log(map.getView().getZoom());
+
+    map.on('pointermove', function(e){
+        var pixel = map.getEventPixel(e.originalEvent);
+        var hit = map.hasFeatureAtPixel(pixel);
+        map.getViewport().style.cursor = hit ? 'pointer' : '';
+    });
 
     const station:weatherStation = pointsById[feature.getId()]
     let country : string = " ";
