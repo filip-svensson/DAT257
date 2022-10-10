@@ -6,11 +6,11 @@ import {useGeographic} from 'ol/proj';
 import VectorLayer from "ol/layer/Vector";
 import VectorSource from "ol/source/Vector";
 import {Icon, Style} from 'ol/style';
-import {points} from "./points";
 import {getCountryData} from "./airApi/openaq";
 import {Point} from "ol/geom";
 import Overlay from 'ol/Overlay';
 import {weatherStation} from "./airApi/weatherStation";
+import {ZoomToExtent, defaults as defaultControls} from 'ol/control';
 
 
 useGeographic();
@@ -91,6 +91,15 @@ const overlay = new Overlay({
 });
 
 const map = new Map({
+    controls: defaultControls().extend([
+        new ZoomToExtent({
+            extent: [
+                1113079.7791264898, 6329220.284081122, 1848966.9639063801,
+                12036863.986909639,
+            ],
+            label: "Z"
+        }),
+    ]),
     target: 'map',
     layers: [osmTile, pointLayer],
     overlays: [overlay],
@@ -167,4 +176,3 @@ map.on('click', function (evt) {
     map.getView().setCenter(coordinates);
     map.getView().setZoom(12);
 });
-
