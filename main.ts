@@ -6,11 +6,11 @@ import {useGeographic} from 'ol/proj';
 import VectorLayer from "ol/layer/Vector";
 import VectorSource from "ol/source/Vector";
 import {Icon, Style} from 'ol/style';
-import {points} from "./points";
 import {getCountryData} from "./airApi/openaq";
 import {Point} from "ol/geom";
 import Overlay from 'ol/Overlay';
 import {weatherStation} from "./airApi/weatherStation";
+import {ZoomToExtent, defaults as defaultControls} from 'ol/control';
 
 
 useGeographic();
@@ -91,6 +91,15 @@ const overlay = new Overlay({
 });
 
 const map = new Map({
+    controls: defaultControls().extend([
+        new ZoomToExtent({
+            extent: [
+                1113079.7791264898, 6329220.284081122, 1848966.9639063801,
+                12036863.986909639,
+            ],
+            label: "SE"
+        }),
+    ]),
     target: 'map',
     layers: [osmTile, pointLayer],
     overlays: [overlay],
@@ -118,6 +127,12 @@ map.on('click', function (evt) {
         return;
     }
     console.log(map.getView().getZoom());
+
+    map.on('pointermove', function(e){
+        var pixel = map.getEventPixel(e.originalEvent);
+        var hit = map.hasFeatureAtPixel(pixel);
+        map.getViewport().style.cursor = hit ? 'pointer' : '';
+    });
 
     const station:weatherStation = pointsById[feature.getId()]
     let country : string = " ";
@@ -166,6 +181,7 @@ map.on('click', function (evt) {
 
     map.getView().setCenter(coordinates);
     map.getView().setZoom(12);
+
 });
 
 let select = (document.getElementById('dropDown')) as HTMLSelectElement;
@@ -286,3 +302,4 @@ function changeZoom(s : string) {
     map.getView().setCenter(coords);
     map.getView().setZoom(zoom);
 }
+
