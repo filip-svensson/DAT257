@@ -61,11 +61,56 @@
 
 
   <div id="map"></div>
+    <p id="box" style ="width: 200px; height: 500px; background-color: cornflowerblue">
+        Welcome to Air Quality Map<br><br>
+
+        Use the the search function in order to
+        find the areas where you want to see the
+        air quality<br><br>
+        You can also move around the map manually
+        and zoom in and out using the buttons in
+        the corner of the map.<br><br>
+        Once you clicked on a marker you can go
+        back to the original position by pressing
+        the "SEND ME HOME" button in the corner of the
+        box containing the information.</p>
     <div id="popup" class="ol-popup">
       <a href="#" id="popup-closer" class="ol-popup-closer"></a>
       <div id="popup-content"></div>
     </div>
 
+    <div class="informationBox">
+        <h2 class="informationTitle">The measurements</h2>
+        <p>ppm - Parts per million (miljondel). 1000 ppm koldioxid innebär att 0,1 % av luften består av koldioxid</p>
+        <p>Om ett mått visar 0 ppm betyder det sannolikt att det inte finns mätvärden för just den stationen</p>
+        <div>
+            <h3 class="particleTitle">Partiklar &lt 2.5 mikrometer:</h3>
+            <p class="particleInfo">Partikelmassan för partiklar med en diameter upp till 2,5 mikrometer refereras som PM2,5. Partiklar upp till dessa storlekar bildas främst vid förbränning och genom att gaser från förbränningen kondenserar. Små partiklar emitteras även från vägslitage, däck och bromsar. Under 2020 var utsläppen av små partiklar 16,9 tusen ton. Det är en minskning med 63 procent sedan 1990</p>
+            <a href="https://www.naturvardsverket.se/data-och-statistik/luft/utslapp/partiklar-pm25-utslapp-till-luft/">Mer läsning Partiklar &lt 2.5 mikrometer</a>
+            <h3 class="particleTitle">Partiklar &lt 10 mikrometer:</h3>
+            <p class="particleInfo">De större partiklarna (PM10) bildas framförallt via slitage, exempelvis från nedbrytning av vägbanan på grund av dubbdäck. Dessa partiklar utgör även den största massan av partiklar i luften. De mindre partiklarna (PM2,5) kommer framförallt från olika förbrännings- och industriprocesser.</p>
+            <a href="https://www.naturvardsverket.se/amnesomraden/luft/luftfororeningar-och-dess-effekter/fakta-om-partiklar-i-luft-pm25-och-pm10">Mer läsning Partiklar &lt 10 mikrometer</a>
+            <h3 class="particleTitle">Kvävedioxid:</h3>
+            <p class="particleInfo">Halterna av kvävedioxid kontrolleras i ett stort antal svenska tätorter med avancerade mätinstrument som kan leverera timmedelvärden. Sådana data kallas för realtidsdata. Detta diagram visar alla data för kvävedioxid som rapporterats till Naturvårdsverkets datavärd i realtid under de senaste 24 timmarna.</p>
+            <a href="https://www.naturvardsverket.se/data-och-statistik/luft/realtidsdata/kvavedioxid-de-senaste-24-timmarna-preliminara-matvarden/">Mer läsning Kvävedioxid</a>
+            <h3 class="particleTitle">Svartkol:</h3>
+            <p class="particleInfo">Svart kol (BC), dvs. sot, är inte i sig självt särskilt skadligt, men på ytan av sotpartiklar som frigörs till luften vid förbränning finns hälsoskadliga organiska föreningar, såsom PAH-föreningar, andra organiska föreningar och metaller.</p>
+            <a href="https://www.hsy.fi/sv/luftkvalitet-och-klimat/luftfororeningarnas-halsoskador/#Musta%20hiili">Mer läsning Svartkol</a>
+            <h3 class="particleTitle">Koloxid:</h3>
+            <p class="particleInfo">En koloxid är en kemisk förening av kol och syre. Med koloxid åsyftas vanligen kolmonoxid, speciellt i dagligt tal.</p>
+            <a href="https://sv.wikipedia.org/wiki/Koloxid">Mer läsning Koloxid</a>
+            <h3 class="particleTitle">Svaveloxid:</h3>
+            <p class="particleInfo">Svaveldioxid är en färglös och hostretande gas. Den släpps ut vid förbränning av fossila bränslen och andra svavelhaltiga ämnen. Svaveldioxid släpps ut även från naturliga processer såsom vulkanutbrott. Svaveldioxid oxideras i atmosfären och bildar svavelsyra, vilket bidrar till försurning av mark och vatten.</p>
+            <a href="https://www.naturvardsverket.se/amnesomraden/luft/luftfororeningar-och-dess-effekter/fakta-om-svaveldioxid-i-luft/">Mer läsning Svaveloxid</a>
+            <h3 class="particleTitle">Ozon:</h3>
+            <p class="particleInfo">Ozon i den lägre atmosfären kan betraktas som en luftförorening (se troposfär). Ozon uppstår i detta fall när luftföroreningar (som kolväten eller kväveoxider) reagerar med solljus. Ozonets kraftigt oxiderande effekt bidrar till att bryta ned andra kolväten och aldehyd-grupper i troposfären, men processen efterlämnar utöver koldioxid (CO2) och vatten (H2O) även vissa av huvudingredienserna i smog.</p>
+            <a href="https://sv.wikipedia.org/wiki/Ozon">Mer läsning Ozon</a>
+            <h3 class="particleTitle">Metangas:</h3>
+            <p class="particleInfo">Metan är en av de viktigaste växthusgaserna och är efter koldioxid den gas med störst påverkan på växthuseffekten. Metan står för 20% av växthuseffekten om vattenånga ej tas med</p>
+            <a href="https://www.smhi.se/kunskapsbanken/klimat/kortlivade-klimatpaverkande-luftfororeningar-slcp/metan-1.99802">Mer läsning Metangas</a>
+
+        </div>
+    </div>
   <script type="module" src="./main.ts"></script>
 
 
