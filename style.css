@@ -147,5 +147,8 @@ html, body {
 }
 
 
-
-
+#box{
+  position: fixed;
+  right: 1%;
+  top: 30%;
+}
