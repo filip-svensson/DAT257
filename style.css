@@ -152,7 +152,7 @@ html, body {
 .informationBox{
   top: 50px;
   border: solid 2px #000066;
-  min-width: 900px;
+  min-width: 500px;
   min-height: 400px;
   position: relative;
   background-color: white;

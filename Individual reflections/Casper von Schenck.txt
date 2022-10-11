@@ -43,5 +43,16 @@ This week I combined my previous sprints of learning APIs with typeScript which 
 to understand better this week. This week I can help more in helping the team learn.
 
 Delivery of info displayed on the map, aswell as getting the correct info from the API.
-I helped scrum as usual, by contributing with input in the meeting, taking on user stories
+I help scrum as usual, by contributing with input in the meeting, taking on user stories
 and helping merge.
+
+----------------------------------------------------------------------------------------------------
+Week 6
+Understanding how to add things such as text and boxes in different parts of the webpage.
+Places like the footer and nav. Trying out things with containers in html, and making custom CSS IDs.
+
+I help by putting in the time learning the APIs and teaching events in the ts-code.
+
+All in all I'll keep working to understand the new languages, but "Scrum-wise" I feel like I have a better grasp
+in the way we can work now. The planning, the detail and deadlines accompanied by weekly critique makes for a good
+development. To keep working with Scrum I'll try to fledge out the user stories this week.
