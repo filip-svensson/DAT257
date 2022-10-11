@@ -11,14 +11,16 @@ html, body {
 #backgroundImage{
   position: absolute;
   z-index: -1;
-
-  filter: blur(5px);
-  -webkit-filter: blur(5px);
+  object-fit: contain;
+  width: 100%;
+  filter: blur(3px);
+  -webkit-filter: blur(3px);
 }
 
-#backgroundImage image{
-  object-fit: cover;
+#backgroundImage #bckImg{
+  object-fit: contain;
   position: center;
+  width: 100%;
 }
 
 @keyframes fadeInAnimation {
@@ -144,6 +146,10 @@ html, body {
 
 #searchForm{
   top: 10px;
+}
+
+footer{
+
 }
 
 
