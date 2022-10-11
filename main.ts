@@ -181,4 +181,125 @@ map.on('click', function (evt) {
 
     map.getView().setCenter(coordinates);
     map.getView().setZoom(12);
+
 });
+
+let select = (document.getElementById('dropDown')) as HTMLSelectElement;
+select.addEventListener('change', (event) => {
+    changeZoom(select.options[select.selectedIndex].value);
+})
+
+function changeZoom(s : string) {
+    let coords: Array<number> = [];
+    let zoom : number;
+    switch (s) {
+        case 'blekinge':
+            coords[0] = 15.2371803;
+            coords[1] = 56.3035189;
+            zoom = 9.5;
+            break;
+        case 'dalarna':
+            coords[0] = 14.3147523;
+            coords[1] = 60.9491405;
+            zoom = 8;
+            break;
+        case 'gotland':
+            coords[0] = 18.5067293;
+            coords[1] = 57.4992209;
+            zoom = 8;
+            break;
+        case 'gavleborg':
+            coords[0] = 16.7952903
+            coords[1] = 61.3333765;
+            zoom = 8;
+            break;
+        case 'halland':
+            coords[0] = 12.8002923;
+            coords[1] = 57.0036649;
+            zoom = 8.5;
+            break;
+        case 'jamtland':
+            coords[0] = 14.3631933;
+            coords[1] = 63.3577254;
+            zoom = 7.5;
+            break;
+        case 'jonkoping':
+            coords[0] = 14.4369543;
+            coords[1] = 57.5084059;
+            zoom = 8.4;
+            break;
+        case 'kalmar':
+            coords[0] = 16.6648443;
+            coords[1] = 57.0753599;
+            zoom = 8;
+            break;
+        case 'kronoberg':
+            coords[0] = 14.5908893;
+            coords[1] = 56.7803589;
+            zoom = 9;
+            break;
+        case 'norrbotten':
+            coords[0] = 20.2058573;
+            coords[1] = 66.9277701;
+            zoom = 7;
+            break;
+        case 'skane':
+            coords[0] = 13.6333113;
+            coords[1] = 55.9220279;
+            zoom = 8.5;
+            break;
+        case 'stockholm':
+            coords[0] = 18.1878323;
+            coords[1] = 59.4074477;
+            zoom = 8.7;
+            break;
+        case 'sodermanland':
+            coords[0] = 16.7230303;
+            coords[1] = 59.0817487;
+            zoom = 9;
+            break;
+        case 'uppsala':
+            coords[0] = 17.6297363;
+            coords[1] = 60.0638267;
+            zoom = 9;
+            break;
+        case 'varmland':
+            coords[0] = 13.2303153;
+            coords[1] = 59.8394357;
+            zoom = 8.5;
+            break;
+        case 'vasterbotten':
+            coords[0] = 17.6748463;
+            coords[1] = 64.8722133;
+            zoom = 7;
+            break;
+        case 'vasternorrland':
+            coords[0] = 17.3381613;
+            coords[1] = 63.0641004;
+            zoom = 8;
+            break;
+        case 'vastmanland':
+            coords[0] = 16.1464353;
+            coords[1] = 59.7188907;
+            zoom = 8.8;
+            break;
+        case 'vastragotaland':
+            coords[0] = 12.8921153;
+            coords[1] = 58.2424388;
+            zoom = 8;
+            break;
+        case 'orebro':
+            coords[0] = 14.9627763;
+            coords[1] = 59.3642077;
+            zoom = 9;
+            break;
+        case 'ostergotland':
+            coords[0] = 15.8282963;
+            coords[1] = 58.3504528;
+            zoom = 9;
+            break;
+    }
+    map.getView().setCenter(coords);
+    map.getView().setZoom(zoom);
+}
+
