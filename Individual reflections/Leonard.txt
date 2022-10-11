@@ -34,3 +34,37 @@ I want to teach my team members how to work efficiently in HTML/CSS.
 I want my team members to follow along with my personal improvements in Git, being able to track branches
 and create their own working directories efficiently.
 
+
+Week 4:
+
+During week 4 we had decided to have two separate meetings, which we discovered wasn't optimal. Many of the team members focused more
+on chatting than the actual meeting, both due to lack of meeting structure and lack of objectives. We decided during the first of these
+that one meeting every week would be optimal, not to split sprint review/retrospective and sprint planning into separate sessions.
+Furthermore, it was noted that some team members felt offended by having to pull a larger workload during this week due to the lack of structure.
+I took to improving the meeting structure for week 5 as a main objective.
+
+We also noted that we hadn't involved our stakeholder enough, which was also put in focus. Furthermore, we started developing a
+minimal value product.
+
+In my group, we worked on establishing routes within the webpage, which proved difficult as we had booted the project through the OpenLayers
+map API, which is based on the framework Vite. My group went as far as creating a brand new project to figure out the routing system within Vite,
+which will be presented to the group to allow either a new project structure or, if a better solution is present, something else.
+
+
+Week 5:
+
+This week, the meeting was a lot more concise than last week. Not only did the workflow appear a lot better, the time was cut by
+roughly 30% and team tensions were discussed. During the team review, some sensitive topics were brought up, allowing everyone to
+reflect on the team dynamic until this point. This meeting thus allowed the team members speak more freely than the one last week,
+allowing the team to get back on track with relevant topics regarding the project.
+
+Discussion were held with the stakeholder regarding how the project could be improved, which proved very successful in how the
+focus shifted from what the team members regarded as important with new relevant input. Furthermore, KPI's were discussed during the meeting
+and then presented as to what we could improve during the last period of the sprint process. We put a larger focus on how we could present
+relevant information for our stakeholder instead of just presenting what we have accomplished verbally.
+
+Furthermore, as of week 4 we discovered during the sprint review that an easier solution to routing would be popups containing the information.
+This would be accomplished through html, css and javascript, allowing a different path than changing the entire project structure.
+
+During week 5, my group worked on changing the frontend to look more presentable for the stakeholder. I was able to teach some tricks
+regarding, htm, css and bootstrap to a team member without previous experience in the area.

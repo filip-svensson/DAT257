@@ -4,12 +4,21 @@ html, body {
   margin: 0 auto;
   height: 100%;
   box-sizing: border-box;
-  background-image: url("gbgstad.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
   animation: fadeInAnimation ease 2s;
   animation-fill-mode:forwards;
+}
+
+#backgroundImage{
+  position: absolute;
+  z-index: -1;
+
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+}
+
+#backgroundImage image{
+  object-fit: cover;
+  position: center;
 }
 
 @keyframes fadeInAnimation {
