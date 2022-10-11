@@ -73,6 +73,17 @@ html, body {
   content: "✖";
 }
 
+#wilmaFoot{
+  font-size: 20px;
+  text-emphasis-position: left;
+  color: deeppink;
+  font-family: "Comic Sans MS";
+  background-color: lightsteelblue;
+  padding-top: 10px;
+  margin: auto;
+
+}
+
 #nav {
   background-image: linear-gradient(to bottom right, #000066, #9999ff);
   float: left;
