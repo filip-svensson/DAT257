@@ -146,6 +146,28 @@ html, body {
   top: 10px;
 }
 
+.informationBox{
+  top: 50px;
+  border: solid 2px #000066;
+  min-width: 900px;
+  min-height: 400px;
+  position: relative;
+  background-color: white;
+
+}
+
+.informationTitle{
+  font-family: "Comic Sans MS";
+}
+
+.particleTitle {
+  font-size: 20px;
+}
+
+.particleInfo {
+  max-width: 90%;
+}
+
 
 #box{
   position: fixed;
