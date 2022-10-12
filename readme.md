@@ -1,18 +1,14 @@
-# OpenLayers + Vite
+# DAT257 Tattoine
+## Members:
+bananaday - Andy Alavinasab
+filip-svensson - Filip Svensson
+Skinkan3000 - Casper Von Schenk
+emme388 - Emil Berzelius
+Raggan2000 - Ernst Näslund
+Yoorkevich - Max Yoorkevic
+Leobag - Leonard Bagiu
 
-This example demonstrates how the `ol` package can be used with [Vite](https://vitejs.dev/).
+## Trello:
+https://trello.com/b/xzarGSOn/sprint-1
 
-To get started, run the following (requires Node 14+):
-
-    npx create-ol-app my-app --template vite
-
-Then change into your new `my-app` directory and start a development server (available at http://localhost:5173):
-
-    cd my-app
-    npm start
-
-To generate a build ready for production:
-
-    npm run build
-
-Then deploy the contents of the `dist` directory to your server.  You can also run `npm run serve` to serve the results of the `dist` directory for preview.
+## Gitinspector:
