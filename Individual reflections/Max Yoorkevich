@@ -33,7 +33,97 @@ of the next week.
 Third week:
 
 After two meetings this week, we chose our roles for the project. Me and another team partner are responsible for
-learning the map-API (OpenLayer) while others to front-end, website, other APIs etc. We have begun our first sprint
-where we're basically responsible to get the project implementable. The meetings have been agreeable so far and no
+learning the map-library (OpenLayer) while others to front-end, website, other APIs etc. We have begun our first sprint
+where we're basically responsible to get the project implementable, and then adding a marker to the map.
+The meetings have been agreeable so far and no
 conflicts has occured.
 
+* what do I want to learn or understand better?
+I'd like to learn about the library in order to implement different functions to the map, and doing that by learning
+simple parts of the library.
+
+* how can I help someone else, or the entire team, to learn something new?
+By sitting and coding/researching together. I feel like this is a good way to catch up on small things that are
+easily overseen. If someone would ask for my help, I would dedicate my time to sit together and tackle the issue.
+I assume my partners would to the same for me.
+
+* what is my contribution towards the team’s use of Scrum?
+To voice my opinions in meetings and keeping an open mind for others. By having more meetings as time goes on
+it might get better and better
+
+* what is my contribution towards the team’s deliveries?
+This sprint, the map-library is very crucial for graphic feedback. By getting the map-library up and running the team
+might get more motivated for the project so I found this very important to get finished.
+
+
+Fourth week:
+
+This week, we decided to make our two meetings into one which suits us all better. This also makes the meetings more
+serious and efficient. I feel that my knowledge regarding scrum is higher. Such as our how to review our sprints and
+ourselves more objectively. We've recently followed the INVEST-criteria for our user-stories which significantly
+improved multiple aspects of our stories. For example, each user story feels more meaningful and decently independent.
+The coming week I'll still be working on the map-library. My user story is to make the markers on the map clickable and
+to make a popup-window with any text. This is a preparation for filling our markers with information regarding air-
+quality from the API.
+
+* what do I want to learn or understand better?
+Right now, our user stories are somewhat independent. By making each user story completely independent, working
+separately will feel a lot more fluent. In order to achieve this, making the user stories with a reflective approach
+multiple times will improve my understanding of the construction of user-stories.
+
+* how can I help someone else, or the entire team, to learn something new?
+Since I'm the most confident developer regarding the map-library, I'll both be an instructor to the rotating partners
+and the main developer this sprint. Before this project, I've found myself to explain things in a disoriented manner,
+which I'd like to improve. In order to teach in a good, structured manner, I've been thinking about how to explain
+different parts of the library a bit more structured and in a arbitrary order.
+
+* what is my contribution towards the team’s deliveries?
+As explained above, my contribution is both to make this weeks sprint-partners ready to develop using the map-library
+and deliver the user-stories with our definition of done. I'm putting more focus on the former part since I find this
+more important for the coming sprints, as our user-stories always can be revised by my partners which I instruct.
+
+Fifth week:
+
+This meeting, our scrum master used an agenda for the meeting which I found crucial for meeting efficiency and
+productivity. We finally have a PO joining us this week, which will help us use KPI as a tool for our sprints.
+Since I've been working on the map-api almost exclusively, I'll be joining two team members working on front-end
+this sprint. They will explain and instruct me in this area since I pretty much have zero experience regarding
+front-end.
+
+* what do I want to learn or understand better?
+Right now, I have almost no knowledge about how to develop in front-end. This week I'd like to become a somewhat
+independent front-end developer for the project. By relying on my sprint-partners to instruct me and begin by trying
+easier parts in HTML I will improve in this area.
+
+* what is my contribution towards the team’s use of Scrum?
+For us, rotating our members in order to learn the entirety of the project has been very important to us since our
+supervisor recommended us doing so. I have a responsibility to learn the front-end so I, in the future, can develop
+and instruct my team members in this area.
+
+* what is my contribution towards the team’s deliveries?
+This week my contribution will be low in concrete code-delivery, which is fine according to our team. We don't want
+the members to be pressured when learning new parts of the project.
+
+Sixth week:
+
+This week, we'll be touching up our MVP to have an acceptable product for our PO by using her feedback from last week.
+We decided that we could choose the user stories which we preferred (which is usually the parts our knowledge is the
+highest). Since everyone got what they wanted anyways, no conflicts occured. I'll again be working with the map, where
+the user stories are to make a button to zoom out to a set part of the map, and making the cursor change when hovering
+the markers.
+
+I've forgot to mention that we use trello to create our user stories. Approximately week four, we started using the
+check-list function which is more explanatory for our DoD as developers. The names of the user story usually explains
+the user-story for anyone to understand, where the checklist is only important to the team excluding the PO. This is
+a very nice way to exactly know what we need to do every user-story without having to come up with our own answers.
+
+* what do I want to learn or understand better?
+Right now, both me and my sprint-partner have a pretty good understanding of the map-library. Before we've always used
+code-with-me, a function made by JetBrains to basically code on the same screen and constantly seeing what the other
+developer is doing. I want to work more independently since this is usually the norm for a developer. We decided on
+dividing our two user-stories into one and work completely independent, unless we needed any help from each other.
+
+* what is my contribution towards the team’s deliveries?
+My contribution is to deliver my user-story with a strong correlation to our DoD, and it feels more important to do so
+since we're closing in on the end of our project. We'll still keep doing our finishing touches as long as the project
+is running, but each user-story becomes more tangible since it's harder to revise our sprints in this phase.
