@@ -118,3 +118,24 @@ it has been the same as the previous week.
 This week me and Andy tried to make a new menu, based on input from our PO. We got the major part of it done but struggle
 with the communication between our html and typescript files. So we will seek some help from the more experienced persons in
 our group and hopefully learn something new.
+
+=====Individual reflection week 7, Filip=====
+*What do I want to learn or understand better?
+Since this is the last sprint, I don't really have any specific learning goals. I feel like I got a better understanding on KPIs.
+Unfortunately we haven't really got to utilize them a lot due to us finding a PO in a late state. But I'm satisfied with what we got
+any way. Instead of a new specific learning goal, I'd rather focus on polishing the knowledge I got so far. I plan on doing
+this when contributing to the final report and presentation.
+
+*How can I help someone else, or the entire team, to learn something new?
+If any member struggles with any of the concepts we've covered I will do my best to help them with
+the last steps in understanding. This week we agreed to not take on any major user stories, but instead fine tuning
+what we've got so far.
+
+*What is my contribution towards the team’s use of Scrum?
+Not really Scrum specific per se, but I'm trying to help to get everything in order for the hand-in. We currently have
+our project somewhat spread out. We got some final merges to do, and documents to be added to the repository. Such as
+the weekly Team reflections.
+
+*What is my contribution towards the team’s deliveries?
+I do the user stories undertaken, and try to be available to any members in need of help to reach the final deadline.
+
