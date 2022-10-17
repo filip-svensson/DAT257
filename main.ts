@@ -18,6 +18,7 @@ useGeographic();
 const container = document.getElementById('popup');
 const content = document.getElementById('popup-content');
 const closer = document.getElementById('popup-closer');
+let done;
 
 //changes map to another style
 const osmTile = new TileLayer({
@@ -179,8 +180,8 @@ map.on('click', function (evt) {
     overlay.setPosition([coordinates[0], coordinates[1]]);
     console.log(coordinates);
 
-    map.getView().setCenter(coordinates);
-    map.getView().setZoom(12);
+
+    flyToCounty(coordinates, 12, false, done);
 
 });
 
@@ -299,7 +300,55 @@ function changeZoom(s : string) {
             zoom = 9;
             break;
     }
-    map.getView().setCenter(coords);
-    map.getView().setZoom(zoom);
+    flyToCounty(coords, zoom, true, done)
+}
+
+function flyToCounty(location : Array<number>, zoom : number, zoomType : boolean, done) {
+    const duration = 2000;
+    let parts = 2;
+    let called = false;
+    function callback(complete) {
+        --parts;
+        if (called) {
+            return;
+        }
+        if (parts === 0 || !complete) {
+            called = true;
+            done(complete);
+        }
+    } if(zoomType){
+        map.getView().animate(
+            {
+                center: location,
+                duration: duration,
+            },
+            callback
+        );
+        map.getView().animate(
+            {
+                zoom: zoom - 2,
+                duration: duration / 2,
+            },
+            {
+                zoom: zoom,
+                duration: duration / 2,
+            },
+            callback
+        );
+    } else {
+        map.getView().animate(
+            {
+                center: location,
+                duration: duration,
+            },
+            callback
+        ), map.getView().animate(
+            {
+                zoom: zoom,
+                duration: duration,
+            },
+            callback
+        );
+    }
 }
 
