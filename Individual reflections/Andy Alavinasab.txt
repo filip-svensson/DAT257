@@ -75,3 +75,22 @@ important this week as we have quite a lot and most only have one person assigne
 I will, like above do the user stories I am assigned and contribute as I can during meetings but also to learn more about
 git in order to make sure that merging of the branches goes well this week especially as more branches will most likely
 be created due to the increase in user stories and the more individual work this week.
+
+Sixth week
+
+* what do I want to learn or understand better?
+Just like last week I would like to understand all aspects of the project better and such have chosen two user stories
+that I feel encompass this. By coding more in html, css and ts I want to improve as a developer and through this also
+be better at scrum by the end of the week.
+
+* how can I help someone else, or the entire team, to learn something new?
+Just like previous weeks I can teach them new things I learn as well as always strive to make the project the best
+it can be. I also want us to not slack off just because it is the last week.
+
+* what is my contribution towards the team’s use of Scrum?
+My contributions will be the user stories I have chosen as well as my contributions during meetings discussing the
+final stages of the project and how we would like to wrap the whole thing up.
+
+* what is my contribution towards the team’s deliveries?
+Just like above to complete my user stories and also with making sure that merging of all branches goes smoothly. I
+will try to make sure that everybody has something to do and help where it is needed.
