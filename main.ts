@@ -91,16 +91,26 @@ const overlay = new Overlay({
     },
 });
 
-const map = new Map({
-    controls: defaultControls().extend([
-        new ZoomToExtent({
+class ZoomControl extends ZoomToExtent {
+    constructor() {
+        super({
             extent: [
                 1113079.7791264898, 6329220.284081122, 1848966.9639063801,
                 12036863.986909639,
             ],
             label: "SE"
-        }),
-    ]),
+        });
+    }
+
+    protected handleZoomToExtent() {
+        super.handleZoomToExtent();
+        closePopup();
+    }
+}
+
+
+const map = new Map({
+    controls: defaultControls().extend([new ZoomControl()]),
     target: 'map',
     layers: [osmTile, pointLayer],
     overlays: [overlay],
