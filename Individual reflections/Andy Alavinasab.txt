@@ -94,3 +94,27 @@ final stages of the project and how we would like to wrap the whole thing up.
 * what is my contribution towards the team’s deliveries?
 Just like above to complete my user stories and also with making sure that merging of all branches goes smoothly. I
 will try to make sure that everybody has something to do and help where it is needed.
+
+Seventh week
+
+* what do I want to learn or understand better?
+As the project is wrapping up I am beginning to conclude the things I have learned in the course which I would
+summarise to a better understanding of how a project structure should look. In that I include better meetings, both
+what is needed to streamline a meeting as well as the things to be brought up during one. I also include the writing of
+user stories, both for the product owner and for the developer in order to define what needs to be done during a
+sprint.
+
+* how can I help someone else, or the entire team, to learn something new?
+In order to help others in the group I feel that it is important to write structured code that is easy to understand,
+not only for the one who wrote it but for others too. A big part of a sprint might otherwise be wasted just to understand
+what has been done previously. But of course offering help, but also accepting it, is helpful to be more efficient.
+
+* what is my contribution towards the team’s use of Scrum?
+The individual should always strive to contribute towards planning of sprints and user stories as all people in the
+team have different strengths and different sources of input will lead to a better planned project. I also believe that
+the individual should not accept too much responsibility as to not overwork themselves and risk delaying deliveries.
+
+* what is my contribution towards the team’s deliveries?
+My contribution will be finishing my own user stories and helping others finish theirs as much as I can. To make sure
+the merged branches and master branch works well is also a responsibility everyone shares. To this end, not interfering
+with others code is helpful to not get merge conflicts and complicate things.

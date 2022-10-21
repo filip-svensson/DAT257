@@ -6,7 +6,7 @@
           integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
     <link rel="icon" type="image/x-icon" href="https://openlayers.org/favicon.ico"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Amazing map</title>
+    <title>AirHub</title>
     <link rel="icon" type="image/x-icon" href="favicon_io_1/favicon.ico">
 
 </head>
@@ -14,7 +14,7 @@
 <nav id="nav" class="container-fluid d-flex justify-content-around">
     <div class="navItems col-5 mx-0">
         <a id="titleLink" href="#">
-            <h1 id="title" class="w-100">Air quality map</h1>
+            <img src="AirHub.png" id="logo" class="w-100">
         </a>
     </div>
 
@@ -29,16 +29,8 @@
 <div id="backgroundImage">
     <image id="bckImg" src="gbgstad.jpg"></image>
 </div>
-<form id="searchForm" action="index.html" method="POST">
-<div id="searchBarId">
-    <label id="searchValueLabel" for="searchValue">Leta efter Glenn</label>
-    <input id="searchValue" class="col-8" type="text"  placeholder="Sök station">
-   <!-- <button type="submit" id="searchBarA">StepFormButton</button> -->
-    <input id= "submit" type="submit" value="SEND ME HOME">
-</div>
-</form>
 
-<div>
+<div class="justify-content-center">
     <select id="dropDown">
         <option selected="selected" disabled="true">Välj ett län:</option>
         <option value="blekinge">Blekinge</option>

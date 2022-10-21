@@ -171,9 +171,19 @@ html, body {
   max-width: 90%;
 }
 
+#logo{
+  margin-top: 15px;
+  max-width: 30%;
+  max-height: 70%;
+
+}
 
 #box{
   position: absolute;
   right: 1%;
   top: 30%;
+}
+
+#dropDown{
+margin-left: 45%;
 }
