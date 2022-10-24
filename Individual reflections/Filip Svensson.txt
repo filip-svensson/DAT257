@@ -139,3 +139,13 @@ the weekly Team reflections.
 *What is my contribution towards the team’s deliveries?
 I do the user stories undertaken, and try to be available to any members in need of help to reach the final deadline.
 
+=====Individual reflection week 8, Filip=====
+Well for this week I can't really do the standard questions since we didn't have a sprint. However, we had
+our presentation. I think it went well. It's hard trying to squeeze 7 guys into 5 minutes, but we managed. Given
+what the project has become now that we've reached the point where it's time to finalize it, I could reflect a bit
+about the course. All in all I am satisfied with the outcome. Since pretty much all of us didn't have any experience
+with html/css/ts. If we could start over I think we might have chosen a different approach. In the beginning we would have
+redefined our MVP so that the MVP isn't the final scope for the project. We thought it was better to aim low and see what
+we could accomplish, then expand with features. We would also get a PO earlier in the process. But overall I am satisfied with
+both the team's outcome but also my learning experience regarding the Scrum method. We have another project course in the
+next study period. It would be nice if that course allowed for enhancing the Scrum foundation laid by this course.
