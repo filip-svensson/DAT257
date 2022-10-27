@@ -106,3 +106,30 @@ upcoming sprint and dividing up user stories that fits the INVEST criteria.
 To be on time with my contribution and making sure that it is not something half assed.
 Also to be of any necessary assistance if any other members of the team should require it.
 
+
+Week 7.
+
+Since this week I will be working on further additions to the map in terms of the zooming function so
+that is something I would like to learn more about and widen my understanding of.
+
+Me and my teammate have both worked with the map before so we both understand the code quite well and how we
+can alter it to get the result we want. So the learning process will be about the same for the both of us
+because we are on about the same level when it comes to coding
+
+We are approaching the final delivery of the product so its will be especially important to me to make sure
+it will be finished well before the deadline so in the sprint meeting we could fix eventual bugs or
+problems with the user story.
+
+Same as before. Be on time with the delivery, something that will be of the most important in this sprint since
+it will deliver the final product.
+
+Week 8
+
+This week will be presentation week. So in terms of delivery and learning we are at an end basically.
+The focus will be on making sure the product is satisfying to the customer and making sure a demo of the product
+can be done without any bugs or hiccups. In general I think the teamwork has developed greatly over the course.
+We got better at having structured meetings following an agenda in our sprint reviews, sprint retrospectives and
+team reflections aswell as the meetings with our PO. I am very happy with the product we delivered and very happy
+with the course.
+
+
