@@ -68,3 +68,32 @@ This would be accomplished through html, css and javascript, allowing a differen
 
 During week 5, my group worked on changing the frontend to look more presentable for the stakeholder. I was able to teach some tricks
 regarding, htm, css and bootstrap to a team member without previous experience in the area.
+
+
+Week 6:
+
+For this last week, my focus was put into further developing the team work structure. The meetings have worked very well since the implementation
+of a strict agenda, and allowing team members to add points they find relevant to the agenda at the start of every meeting further allowed the development
+of tasks and transparency throughout the work. After a discussion regarding how the user stories were split according INVEST-criteria, the team concluded
+that developer stories should be even smaller. Furthermore, it was discussed how to involve the stakeholder on a regular basis, which was placed right
+before every meeting held by the group. The direct feedback would allow the PO to affect the decisions made by the group regarding the user stories placed
+for the upcoming sprint.
+
+It feels like the group has developed a lot in how it works. Both in the way of consistency, but also knowing the strengths of one-another and
+finding comfort in the structure that has been established throughout all sprints.
+
+Most of my personal task this week consisted of editing frontend bits according to feedback given by the stakeholder.
+Changing this, however, changed the layout of the whole page. As of such, it required a bit of work to accomplish.
+
+
+Week 7:
+
+The last week of the project was spent doing smaller touch-ups of the project. We had a final meeting with our stakeholder to
+see if she was content, which would allow us to do smaller touch-ups on the front end of the project if necessary. We made a few
+smaller changes, but all in all we got positive response.
+
+We spoke of how we have improved our working dynamic throughout the sprints during this week, which we decided to keep to the final
+report rather than speaking of it during the live demo of the project.
+
+All in all, I believe the team feels content with how the project turned out, as we had many steps back and forth with how we should
+develop the project and how we could take what we've learnt during this course to future projects.
