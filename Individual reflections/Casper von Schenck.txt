@@ -56,3 +56,20 @@ I help by putting in the time learning the APIs and teaching events in the ts-co
 All in all I'll keep working to understand the new languages, but "Scrum-wise" I feel like I have a better grasp
 in the way we can work now. The planning, the detail and deadlines accompanied by weekly critique makes for a good
 development. To keep working with Scrum I'll try to fledge out the user stories this week.
+
+----------------------------------------------------------------------------------------------------
+Week 7 / Week 8
+This sprint was for me and the work I took on, not very large or demanding. I feel that I could have valued the tasks
+I chose much higher. Although we all chose to not make the user stories very hard this week seeing as we felt that MVP had
+been reached and didn't want to accidentally break the code.
+
+This week we kept working a lot on design for this week, meeting up with our PO and such.
+
+In the end I feel very satisfied with the outcome and how we performed as a team.
+
+Seeing as there was no sprint after the presentation I won't do another individual reflection for week 8. But to summarize
+I think the application of scrum could be useful as long as it doesn't waste more time setting up than fixing the problems
+that arise. My group and I did a good amount, and I rarely felt as any of it was a time waste.
+
+We could definitely have had a PO much earlier, and a better vision of our project from the start. I think we might've
+underestimated our abilities to learn programming languages on our own, and maybe could've aimed higher in quality.
