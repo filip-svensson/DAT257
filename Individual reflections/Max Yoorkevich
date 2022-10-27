@@ -127,3 +127,14 @@ dividing our two user-stories into one and work completely independent, unless w
 My contribution is to deliver my user-story with a strong correlation to our DoD, and it feels more important to do so
 since we're closing in on the end of our project. We'll still keep doing our finishing touches as long as the project
 is running, but each user-story becomes more tangible since it's harder to revise our sprints in this phase.
+
+seventh week:
+This week, I worked on my user story alone. I did run into some issues, where the user story was directly implemented
+into the map-initialization. By a lot of trial and error, I succeeded by breaking it into a separate method and then
+overriding the superclass method by adding the functionality I wanted.
+
+* what is my contribution towards the team’s deliveries?
+This week, my contribution has been to make finishing touches to the project. These user-stories were made quite small
+in order to not mess up the project for the demo. This coming week, we will be focusing on the demo. Right now I have
+not made a lot of preparation for the demo, but by practicing and working on the demo my part in order to have a
+successful demo.
