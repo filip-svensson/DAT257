@@ -43,3 +43,47 @@ what is my contribution towards the team’s deliveries?
     some valuable information and suggestions for improvement.
 
 ------------------------------------------------Week 5--------------------------------------------------------------
+what do I want to learn or understand better?
+    This week I continued to work on the frontend and worked on implementing a skeleton for the search functionality
+    and basic buttons necessary for it. I wanted to understand html and css better and I feel like the languages are
+    a bottomless pit in terms of learning and implementation.
+how can I help someone else, or the entire team, to learn something new?
+    This week we worked as a team on the frontend development and bringing in a team member who had not yet touched it
+    was a great opportunity to teach and help him understand the basics of html/css. We went through the entire project
+    so far and played around a bit with the code to easier demonstrate the different aspects of html/css, in the process
+    also discovering some things I myself did not understand.
+what is my contribution towards the team’s use of Scrum?
+    Continuing to take notes in relevant situations and showing up to meetings. This week I feel like we've reached a
+    better understanding of how to work together. We've also started to have meetings with our stakeholder and found
+    a better understanding of where to take the project by involving KPIs as well. KPIs are something however that I
+    individually and we as a team need to understand better.
+what is my contribution towards the team’s deliveries?
+    Both writing code and helping other write code. Trying to focus on the KPIs when writing user stories.
+
+------------------------------------------------Week 6--------------------------------------------------------------
+what do I want to learn or understand better?
+    This week I didn't focus too much on technical learning and instead on reaching an acceptable product in accordance
+    with our stakeholder. However I feel like reaching an agreement on product acceptability is something to learn from.
+how can I help someone else, or the entire team, to learn something new?
+    Since we worked on tuning minor aspects of the project this week, to learn others something new was pretty difficult.
+    I tried to be available answering questions regarding the parts of the project I was more comfortable.
+what is my contribution towards the team’s use of Scrum?
+    Continuing to take notes in relevant situations and showing up to meetings. The meetings have really taken a proper
+    form now and feel quite efficient. Trying to keep the user stories at a reasonable level.
+what is my contribution towards the team’s deliveries?
+    Mostly trying to clean up code and doing text edits, adding some information about the parameters of the points on
+    the map.
+
+------------------------------------------------Week 7--------------------------------------------------------------
+what do I want to learn or understand better?
+   The final week of working on the project we started to conclude what we have learned about agile and reflecting on
+   what we would have done differently if we had started the project over again. Most of it is about the agile aspects
+   such as meeting structure, how to write user stories and involving stakeholder/PO more closely.
+how can I help someone else, or the entire team, to learn something new?
+    Discussing what I personally liked and didn't like about our way of working trying to find different angels of what
+    we have done and achieved during this project.
+what is my contribution towards the team’s use of Scrum?
+    Continuing to take notes in relevant situations and showing up to meetings. This week the workload was mostly about
+    finalizing the product, merging code and getting it ready for hand in/presentation.
+what is my contribution towards the team’s deliveries?
+    Finishing up the final user stories and helping others with theirs as well. Making sure the stakeholder is satisfied.
